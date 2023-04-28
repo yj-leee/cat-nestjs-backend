@@ -1,0 +1,11 @@
+.vscode
+.git*
+.env*
+.eslintrc.js
+*.yml
+*.yaml
+*.md
+dist
+node_modules
+Dockerfile*
+.dockerignore
